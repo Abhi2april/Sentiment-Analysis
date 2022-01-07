@@ -56,10 +56,10 @@ First, we processed the data of review column with following steps:
     10.We performed prediction on test data and got F1 score= 0.9871397964692025
     
     
-![Image of result](https://github.com/Technocolabs100/Multi-Class-Text-Sentiment-Analysis-Using-Amazon-Review-Data/blob/main/Model%20Deployment%20-%20Streamlit/Images/Demo.png)
+![image](https://user-images.githubusercontent.com/72940291/148496085-363e4c29-b46e-4242-a227-c1dfa9f9e1e3.png)
     
   ### Results:
-  ![image of result](https://github.com/Technocolabs100/Multi-Class-Text-Sentiment-Analysis-Using-Amazon-Review-Data/blob/main/Model%20Deployment%20-%20Streamlit/Images/Analysis.png)
+![image](https://user-images.githubusercontent.com/72940291/148496264-c40e2ac4-54d7-4267-af29-43d72a259682.png)
 
  ### Conclusion:       
    This complete notebook represents an exploratory data analysis (EDA) process to put together the patterns related to the Reviews. We have dealt with the reviews data `"multi-class labeled Amazon data to apply sentiment analysis"` and performed sentimental analysis using the textblob to calculate the (positive, neutral, negative) polarity values.  The purpose of this study is to analyze the dataset and obtain important insights form it. After performing the Data preprocessing tasks, we have developed an model using the `KNN Algorithm` for calculating the accuracy of the model. Further, using the `streamlit web application` we have deployed our model to predict our results.
