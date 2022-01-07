@@ -7,8 +7,7 @@ Predicting a review's numeric rating based on the textual review is a quintessen
 
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib, Scikit-Learn, nltk, spacy and textblob.
 
-`Model Deployment Link:`
-  https://share.streamlit.io/uttej2001/multiclass-text-sentiment-analysis/main/app.py
+## `Streamlit Deployment` [Deployed Link](https://share.streamlit.io/uttej2001/multiclass-text-sentiment-analysis/main/app.py)
 
 
 ### Features
