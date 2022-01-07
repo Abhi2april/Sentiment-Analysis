@@ -8,7 +8,7 @@ Predicting a review's numeric rating based on the textual review is a quintessen
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib, Scikit-Learn, nltk, spacy and textblob.
 
 `Model Deployment Link:`
-  https://share.streamlit.io/samarth3557/sentimental-analysis-using-amazon-review-data/main/streamlit.py
+  https://share.streamlit.io/uttej2001/multiclass-text-sentiment-analysis/main/app.py
 
 
 ### Features
@@ -63,10 +63,3 @@ First, we processed the data of review column with following steps:
 
  ### Conclusion:       
    This complete notebook represents an exploratory data analysis (EDA) process to put together the patterns related to the Reviews. We have dealt with the reviews data `"multi-class labeled Amazon data to apply sentiment analysis"` and performed sentimental analysis using the textblob to calculate the (positive, neutral, negative) polarity values.  The purpose of this study is to analyze the dataset and obtain important insights form it. After performing the Data preprocessing tasks, we have developed an model using the `KNN Algorithm` for calculating the accuracy of the model. Further, using the `streamlit web application` we have deployed our model to predict our results.
-
-### Team
-- **Samarth**
-- **Arjun**
-
-### Mentor
-- **Uttej Kumar**
